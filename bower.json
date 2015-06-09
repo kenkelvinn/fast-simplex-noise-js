@@ -1,7 +1,8 @@
 {
   "name": "simplexnoise.js",
-  "version": "0.2.0",
+  "version": "0.5.3",
   "authors": [
+   "Josh Forisha <josh@forisha.com>",
     "Matthias De Vriendt (fauxnoir) <devriendt.matthias@gmail.com>"
   ],
   "description": "Generate Simplex Noise",
