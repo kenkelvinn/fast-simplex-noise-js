@@ -1,21 +1,17 @@
 {
-  "name": "fast-simplex-noise",
-  "version": "0.5.1",
-  "homepage": "https://github.com/joshforisha/fast-simplex-noise-js",
+  "name": "simplexnoise.js",
+  "version": "0.2.0",
   "authors": [
-    "Josh Forisha <josh@forisha.com>"
+    "Matthias De Vriendt (fauxnoir) <devriendt.matthias@gmail.com>"
   ],
-  "description": "A JavaScript implementation of faster simplex noise",
-  "main": "fast-simplex-noise.js",
-  "moduleType": [
-    "amd",
-    "globals",
-    "node"
-  ],
+  "description": "Generate Simplex Noise",
   "keywords": [
-    "noise",
-    "perlin",
-    "random",
-    "simplex"
+    "simplexnoise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
   ]
 }
